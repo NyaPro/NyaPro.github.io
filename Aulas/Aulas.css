@@ -1,0 +1,82 @@
+body{
+    background-color: yellow;
+    color: black;
+    font-size: 25px;
+    font-family: monospace;
+}
+ 
+.banner{
+    color: white;
+    font-size: 15px;
+    background-color: indigo;
+    height: 50px;
+    width: 150px;
+    border: 10px solid pink;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.banner:hover{
+    color:crimson;
+    background-color: ghostwhite;
+    border: 10px double purple;
+}
+
+.menu{
+    color: aqua;
+    font-size: 20px;
+    background-color: darkred;
+    height: 70px;
+    width: 200px;
+    border: 10px double black;
+    border-radius: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.menu:hover{
+    background-image: linear-gradient(red, darkred);
+    border: 10px dotted black;
+}
+
+.oto{
+background-color: blue;
+color: black;
+margin: 2px;
+}
+
+.lari{
+    background-color: black;
+    color: white;
+    margin: 2px;
+}
+
+.claro{
+    background-color: aquamarine;
+    color: black;
+    margin: 2px;
+
+}
+
+.menu div:hover{
+    border: 4px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
